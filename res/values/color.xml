@@ -18,7 +18,7 @@
 <resources>
 
     <!-- Default background color for the status bar. -->
-    <color name="calculator_accent_color">#0097A7</color>
+    <color name="calculator_accent_color">#4285f4</color>
 
     <!-- Color to indicate an error has occured. -->
     <color name="calculator_error_color">#C2185B</color>
@@ -42,7 +42,7 @@
     <color name="pad_operator_background_color">#636363</color>
 
     <!-- Background color for the advanced pad. -->
-    <color name="pad_advanced_background_color">#1DE9B6</color>
+    <color name="pad_advanced_background_color">#4285f4</color>
 
     <!-- Text color for a button in a pad. -->
     <color name="pad_button_text_color">#FFF</color>
